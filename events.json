@@ -1,0 +1,36 @@
+{
+  "date": "2024-09-11",
+  "constructionsitename": "Project A",
+  "incidentType": "AccidentImp",
+  "notificationMessage": "Funcionário caiu de uma altura",
+  "details": "Queda",
+  "priority": "High",
+  "title": "Acidente grave",
+  "uuid": "e30fe5c4-dda8-45a4-98be-e40e7b75add4",
+  "employeename": "John Doe",
+  "injuriedEmp": "John Doe"
+}
+{
+  "date": "2024-09-11",
+  "constructionsitename": "Project A",
+  "incidentType": "FailureImp",
+  "notificationMessage": "O motor da grua parou de funcionar",
+  "failedEquipment": "Bulldozer",
+  "details": "Falha de motor",
+  "priority": "Normal",
+  "title": "Falha de equipamento",
+  "uuid": "3c1239c0-6331-4b23-bbb3-998eb2d16a78",
+  "employeename": "Jane Smith"
+}
+{
+  "date": "2024-09-11",
+  "constructionsitename": "Project A",
+  "incidentType": "AccidentImp",
+  "notificationMessage": "Funcionário foi ferido",
+  "details": "Acidente com Bulldozer",
+  "priority": "Immediate",
+  "title": "Acidente com Máquina",
+  "uuid": "8c5991aa-f8ae-457e-ba83-d767a58c1bbf",
+  "employeename": "Jane Smith",
+  "injuriedEmp": "Jane Smith"
+}

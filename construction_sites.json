@@ -1,0 +1,29 @@
+[
+  {
+    "manager": "Mary Jane",
+    "teams": [],
+    "endDate": "2024-12-15",
+    "name": "Obra A",
+    "permit": "P12345",
+    "location": "Rua A",
+    "startDate": "2023-01-10",
+    "permitExpiration": "2025-05-15"
+  },
+  {
+    "manager": "Jhonattan Diogo",
+    "teams": [
+      {
+        "teamName": "Team A",
+        "leader": "Leader A",
+        "leaderType": "Team leader",
+        "employees": []
+      }
+    ],
+    "endDate": "2023-12-31",
+    "name": "Project A",
+    "permit": "123456",
+    "location": "Location A",
+    "startDate": "2023-01-01",
+    "permitExpiration": "2024-01-01"
+  }
+]
